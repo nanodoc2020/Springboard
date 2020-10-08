@@ -1,0 +1,13 @@
+,num_pics,largest_pic,smallest_pic,avg_pic_size,std_dev,data_type
+Black-grass,263,2670,73,661,498.0,<class 'numpy.float32'>
+Charlock,390,1582,121,432,287.0,<class 'numpy.float32'>
+Cleavers,287,866,66,310,152.0,<class 'numpy.float32'>
+Common Chickweed,611,718,54,231,161.0,<class 'numpy.float32'>
+Common Wheat,221,1432,51,440,303.0,<class 'numpy.float32'>
+Fat Hen,475,1273,55,303,211.0,<class 'numpy.float32'>
+Loose Silky-bent,654,3457,71,398,409.0,<class 'numpy.float32'>
+Maize,221,1900,54,483,416.0,<class 'numpy.float32'>
+Scentless Mayweed,516,1227,49,226,212.0,<class 'numpy.float32'>
+Shepherds Purse,231,1317,63,289,248.0,<class 'numpy.float32'>
+Small-flowered Cranesbill,496,1006,62,342,194.0,<class 'numpy.float32'>
+Sugar Beet,385,1715,49,590,335.0,<class 'numpy.float32'>
